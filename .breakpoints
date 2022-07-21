@@ -1,3 +1,60 @@
 {
-  "files": {}
+  "files": {
+    "main.py": [
+      {
+        "id": "f4b63c5f-242f-49f3-ac46-bd902950f16d",
+        "line": 1,
+        "version": 2669,
+        "index": 0
+      },
+      {
+        "id": "b8b73f0c-9e30-45a7-8fc3-8409de9c6c45",
+        "line": 2,
+        "version": 2669,
+        "index": 36
+      },
+      {
+        "id": "bd6374e8-b616-4da5-a518-9f9d266cfe58",
+        "line": 3,
+        "version": 2669,
+        "index": 67
+      },
+      {
+        "id": "4cd42ea2-1fed-4c94-a862-655ecc4f252c",
+        "line": 4,
+        "version": 2773,
+        "index": 100
+      },
+      {
+        "id": "4afd7a1c-7bb4-48bb-baaf-1a32245eb507",
+        "line": 5,
+        "version": 2825,
+        "index": 131
+      },
+      {
+        "id": "7b96a7a7-7f5c-4c0a-98a2-6b54988d1593",
+        "line": 6,
+        "version": 2735,
+        "index": 163
+      },
+      {
+        "id": "b06ccc86-7eb7-46ab-ae78-3233ba8e61c9",
+        "line": 7,
+        "version": 2735,
+        "index": 194
+      },
+      {
+        "id": "c451d8cc-bf8f-466c-8dab-074def1a2529",
+        "line": 8,
+        "version": 2825,
+        "index": 226
+      },
+      {
+        "id": "b44d5cdf-d0b1-4481-824a-53814b5978f9",
+        "line": 9,
+        "version": 2678,
+        "index": 258
+      }
+    ]
+  }
 }
